@@ -1,0 +1,1 @@
+- PKM：Personal Knowledge Management ，通过工具建立知识体系并不断完善，进行知识的收集、消化吸收和创新的过程。
